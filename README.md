@@ -1,6 +1,8 @@
---> Manual-Testing---Test-Scenario-Report
+-->Test Scenario:
+
 As a part of my learning,  I created test scenario report for an online shopping site (frontend). 
-Report contains description about test scenario, its priority and number of test cases written for a particular scenario.
+It is a Test Scenario report, which contains Description about test scenario and the number of test cases written for each scenario. 
+Further , I will be creating Test Case report for each scenario to understand the process of manual testing more precisely. 
 
 
 --> Report Screenshot :
